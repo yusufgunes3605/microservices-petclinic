@@ -1,5 +1,5 @@
 nodes:
-  - address: 107.23.0.193
+  - address: 172.31.37.199
     internal_address: 172.31.37.199
     user: ubuntu
     role: [controlplane, worker, etcd]
